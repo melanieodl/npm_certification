@@ -7,11 +7,7 @@
 	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0",
-<<<<<<< HEAD
-		"moment": "2.10.2"
-=======
-		"moment": "2.14.0"
->>>>>>> 8b0c0995b952f940572fdbd7171cc21986f767a4
+		"moment": "~2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
